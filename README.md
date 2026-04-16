@@ -37,6 +37,8 @@ My professional background spans actuarial modelling, product development, core�
 
 ## 📦 Current Personal Project  
 ### **Actuarial Life Engine (Private Python Library – In Development)**  
+<img width="1536" height="1024" alt="Lactuca-Products" src="https://github.com/user-attachments/assets/2c84cc82-c826-4302-b17a-74d03bc1d591" />
+
 I am currently developing a **proprietary Python library for life actuarial calculations**.  
 The goal is to provide a robust, reusable toolset for actuarial teams and insurers.
 
